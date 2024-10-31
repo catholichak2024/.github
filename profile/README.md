@@ -10,10 +10,10 @@
 ## ✨서비스 소개
 
 <p>
-  <img width="70%" alt="EveryGrade" src="https://github.com/user-attachments/assets/3b370a56-6da9-4582-8861-20a57a4a8355">
-  <img width="70%" alt="EveryGrade" src="https://github.com/user-attachments/assets/b0c43f63-d3ae-42d2-ac21-fe9eb4e6c558">
-  <img width="70%" alt="EveryGrade" src="https://github.com/user-attachments/assets/3abc621d-e06d-412e-8b27-341e9b93750c">
-  <img width="70%" alt="EveryGrade" src="https://github.com/user-attachments/assets/ccc3e232-3a69-476d-a1c9-3cdb0fa37523">
+  <img width="80%" alt="EveryGrade" src="https://github.com/user-attachments/assets/3b370a56-6da9-4582-8861-20a57a4a8355">
+  <img width="80%" alt="EveryGrade" src="https://github.com/user-attachments/assets/b0c43f63-d3ae-42d2-ac21-fe9eb4e6c558">
+  <img width="80%" alt="EveryGrade" src="https://github.com/user-attachments/assets/3abc621d-e06d-412e-8b27-341e9b93750c">
+  <img width="80%" alt="EveryGrade" src="https://github.com/user-attachments/assets/ccc3e232-3a69-476d-a1c9-3cdb0fa37523">
 
 </p>
 <br>
@@ -23,8 +23,8 @@
 
 |PM|PM|Design|FE|FE|FE|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|<img width="100" alt="엄예빈" src="https://github.com/joyyy01.png">|||<img width="100" alt="강유정" src="https://github.com/yujeong3389.png">|<img width="100" alt="조은정" src="https://github.com/E-hyeon.png">|<img width="100" alt="고민균" src="https://github.com/skyblue1232.png">|
-|[엄예빈](https://github.com/joyyy01)|김지선|박정인|[강유정](https://github.com/yujeong3389)|[조은정](https://github.com/E-hyeon)|[고민균](https://github.com/skyblue1232)|
+|<img width="100" alt="엄예빈" src="https://github.com/joyyy01.png">||<img width="100" alt="박정인" src="https://github.com/jeongin21.png">|<img width="100" alt="강유정" src="https://github.com/yujeong3389.png">|<img width="100" alt="조은정" src="https://github.com/E-hyeon.png">|<img width="100" alt="고민균" src="https://github.com/skyblue1232.png">|
+|[엄예빈](https://github.com/joyyy01)|김지선|[박정인](https://github.com/jeongin21)|[강유정](https://github.com/yujeong3389)|[조은정](https://github.com/E-hyeon)|[고민균](https://github.com/skyblue1232)|
 
 |BE|BE|AI|AI|AI|
 |:-:|:-:|:-:|:-:|:-:|
