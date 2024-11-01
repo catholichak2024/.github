@@ -23,8 +23,8 @@
 
 |PM|PM|Design|FE|FE|FE|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|<img width="100" alt="엄예빈" src="https://github.com/joyyy01.png">||<img width="100" alt="박정인" src="https://github.com/jeongin21.png">|<img width="100" alt="강유정" src="https://github.com/yujeong3389.png">|<img width="100" alt="조은정" src="https://github.com/E-hyeon.png">|<img width="100" alt="고민균" src="https://github.com/skyblue1232.png">|
-|[엄예빈](https://github.com/joyyy01)|김지선|[박정인](https://github.com/jeongin21)|[강유정](https://github.com/yujeong3389)|[조은정](https://github.com/E-hyeon)|[고민균](https://github.com/skyblue1232)|
+|<img width="100" alt="엄예빈" src="https://github.com/joyyy01.png">|<img width="100" alt="김지선" src="https://github.com/nin0nee.png">|<img width="100" alt="박정인" src="https://github.com/jeongin21.png">|<img width="100" alt="강유정" src="https://github.com/yujeong3389.png">|<img width="100" alt="조은정" src="https://github.com/E-hyeon.png">|<img width="100" alt="고민균" src="https://github.com/skyblue1232.png">|
+|[엄예빈](https://github.com/joyyy01)|[김지선](https://github.com/nin0nee)|[박정인](https://github.com/jeongin21)|[강유정](https://github.com/yujeong3389)|[조은정](https://github.com/E-hyeon)|[고민균](https://github.com/skyblue1232)|
 
 |BE|BE|AI|AI|AI|
 |:-:|:-:|:-:|:-:|:-:|
